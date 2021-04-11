@@ -6,7 +6,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
-    min-height: 97vh;
     background-position: bottom;
 }
 #myCanvas{
