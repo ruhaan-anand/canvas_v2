@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("background-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 97vh;
+    background-position: bottom;
+}
+#myCanvas{
+    background-color: white;
+     border: 10px ridge white;
+}
+#cavas{
+    width: 100%;
+}
